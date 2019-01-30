@@ -1,0 +1,11 @@
+First, I created a Gantt chart to a lot my time appropriately and to decide how much time I would devote to each step in the process. This process was very useful because it helped me maintain my organization and stay on top of the work.
+
+I chose a close friend of mine as a client who always had the same issue and I have discussed this issue that I decided to solve many times with him. Ryan always tell me how he can't know what to wear just based on the weather so I came up with this program that takes other variables into consideration and determines what he should wear. The code makes these determinations off of temperature, wind, and rain.
+
+Ryan and I discussed what would be most helpful for him. We discussed including variables that could affect the outfit. At first we started by only looking at temperature and rain. From this point, I began designing a flowchart which would outline the code's functions and how it would carry them out.
+
+I created my pseudo code prior to writing the final code. The point of my pseudo code was to illustrate the program's functionality and how the program would carry out the functions. The pseudo code also worked as a model to show Ryan what would be going on in the program.
+
+When I finished my pseudo code I started working on actual code where Ryan gave me feedback and suggested that I incorporate wind as that can often be a decisive factor when deciding what to wear. The code itself uses many if-else statements(booleans) so that the computer can consider many different inputs to provide an accurate output.
+
+Ryan used the program and said it was useful in deciding what to wear because it could account for factors which affect weather and give an approximate guess for what to wear that day.
